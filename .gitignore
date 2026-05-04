@@ -1,0 +1,12 @@
+.lab-dio/
+.adk_artifacts/
+__pycache__/
+*.py[cod]
+
+.env
+.env.*
+!.env.example
+
+.vscode/
+.idea/
+*.log
